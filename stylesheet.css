@@ -123,28 +123,4 @@ img {
   margin: auto;
   width: 93%;
 }
-.vid{
-position: absolute;
-top: 30%;
-margin-left: 50%;
-}
-.music-container{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-.title{
-  border: 2px solid lemonchiffon;
-  border-radius: 5px;
-  background: rgb(255, 250, 205, .8);
-  color: #00008B; 
-  padding: 10px;
-  margin-bottom: 10px; 
-}
-.main{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
+
